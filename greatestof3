@@ -7,3 +7,24 @@ elif b>a and b>c:
   print("b is greatest")
 else:
   print("c is greatest")
+  
+  
+  
+  #if any of two numbers are equal
+a=int(input("Enter a: "))
+b=int(input("Enter b: "))
+c=int(input("Enter c: "))
+if a==b:
+  printf("a and b are equal")
+if b==c:
+  printf("b and c are equal")
+if a==c:
+  printf("a and c are equal")
+
+ if (a>b and a>c) :
+   print("a is greatest")
+ elif (b>a and b>c):
+   print("b is greatest")
+ else:
+   print("c is greatest")
+
